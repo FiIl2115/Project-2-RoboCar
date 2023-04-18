@@ -1,1 +1,3 @@
 # Project-2-RoboCar
+
+In this project we will build a remote controlled car with the components provided by the school. The goal is to /send commands through a broker, in our case a “Raspberry Pi 4” in a string/sentence so the car can move on our instructions, similar to when a space station sends a space rover onto a different planet. This means we will send a summary of the commands we want to accomplish, keeping in mind that the commands are not only about the movement but also about the sensors since we have two sensors on our car - the “SGP-40” sensor which is an air quality sensor and “PM-25” which is a dust sensor
